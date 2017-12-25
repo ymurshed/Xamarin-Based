@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729951885902",
+    "firebase_url": "https://chromenotifier.firebaseio.com",
+    "project_id": "chromenotifier",
+    "storage_bucket": "chromenotifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729951885902:android:674ca6091bb31afa",
+        "android_client_info": {
+          "package_name": "com.personal.ChromeNotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729951885902-gic5lr01e6ah87ivhhvao46r130t7lrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByF-HmQsf8h67xfpuSSGOyueiK_y3xvW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

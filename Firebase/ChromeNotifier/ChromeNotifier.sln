@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeNotifier.Android", "ChromeNotifier\ChromeNotifier.Android\ChromeNotifier.Android.csproj", "{82CF8A31-38BE-49FF-807E-BD22EBE7138A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChromeNotifier", "ChromeNotifier\ChromeNotifier\ChromeNotifier.csproj", "{ECBB8DD8-BC89-44D0-B4B0-3BEA8E6E6B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82CF8A31-38BE-49FF-807E-BD22EBE7138A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CF8A31-38BE-49FF-807E-BD22EBE7138A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CF8A31-38BE-49FF-807E-BD22EBE7138A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{82CF8A31-38BE-49FF-807E-BD22EBE7138A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CF8A31-38BE-49FF-807E-BD22EBE7138A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CF8A31-38BE-49FF-807E-BD22EBE7138A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{ECBB8DD8-BC89-44D0-B4B0-3BEA8E6E6B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBB8DD8-BC89-44D0-B4B0-3BEA8E6E6B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBB8DD8-BC89-44D0-B4B0-3BEA8E6E6B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBB8DD8-BC89-44D0-B4B0-3BEA8E6E6B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A590539-15AB-450F-B396-160856024706}
+	EndGlobalSection
+EndGlobal

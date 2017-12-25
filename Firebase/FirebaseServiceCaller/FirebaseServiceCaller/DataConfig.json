@@ -1,0 +1,21 @@
+{
+  "LG": {
+    "Header": {
+      "authorization": "AAAAhg0TcH0:APA91bEp8Tb8q2qJLKmiCJmaJ1mYaIb_cSXURBxL30q3DAM4n_DIl7n44Zgx5BellgRSKFx6wuQQUmiWSb-iAoXzn-XAOeXiPZS72v2tcf9PFxSt9lPf_KR_kvZfkOv6TgJ67enytSH8",
+      "contenttype": "application/json"
+    },
+    "Body": {
+      "to": "dH0RIxcVONs:APA91bH4rZfvwY9VYi4ZW-BtrwwHZKHZS_I834x0vO1WbjPTFuluHvlDeqMaDt7tcE4qxdstsGmXYst9EtR6PwweUxRNKHoIC6O1DIpHSUFmAprPR17as0haBIQkIqV8gGbRQ8mQxws-",
+      "notification": {
+        "body": "Good match!",
+        "title": "BD vs. AUS",
+        "content_available": true,
+        "priority": "high"
+      }
+    },
+    "Response": {
+      "success": 1,
+      "failure": 0
+    }
+  }
+}
